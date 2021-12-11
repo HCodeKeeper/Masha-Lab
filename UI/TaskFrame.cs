@@ -12,14 +12,16 @@ namespace Masha_Lab.UI
         public TaskFrame(ITask task)
         {
             Task = task;
+            Draw();
         }
 
         void Draw()
         {
-            Console.WriteLine($"Title: {Task.GetTitle}");
-            Console.WriteLine($"Page Code\tDescription");
+            Console.WriteLine($"Title: {Task.GetTitle()}");
+            Console.WriteLine($"Page Code\t\tDescription");
             Console.WriteLine();
-            foreach(string input in Task.GetInputData())
+            Console.Write(Task.GetUID() + "\t");
+            foreach (string input in Task.GetInputData())
             {
                 Console.WriteLine("Input: " + input);
                 Console.Write("~Output: ");

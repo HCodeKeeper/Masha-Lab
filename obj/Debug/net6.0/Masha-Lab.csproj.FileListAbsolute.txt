@@ -1,0 +1,15 @@
+D:\Github\Masha-Lab\bin\Debug\net6.0\Masha-Lab.exe
+D:\Github\Masha-Lab\bin\Debug\net6.0\Masha-Lab.deps.json
+D:\Github\Masha-Lab\bin\Debug\net6.0\Masha-Lab.runtimeconfig.json
+D:\Github\Masha-Lab\bin\Debug\net6.0\Masha-Lab.dll
+D:\Github\Masha-Lab\bin\Debug\net6.0\ref\Masha-Lab.dll
+D:\Github\Masha-Lab\bin\Debug\net6.0\Masha-Lab.pdb
+D:\Github\Masha-Lab\obj\Debug\net6.0\Masha-Lab.csproj.AssemblyReference.cache
+D:\Github\Masha-Lab\obj\Debug\net6.0\Masha-Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Masha-Lab\obj\Debug\net6.0\Masha-Lab.AssemblyInfoInputs.cache
+D:\Github\Masha-Lab\obj\Debug\net6.0\Masha-Lab.AssemblyInfo.cs
+D:\Github\Masha-Lab\obj\Debug\net6.0\Masha-Lab.csproj.CoreCompileInputs.cache
+D:\Github\Masha-Lab\obj\Debug\net6.0\Masha-Lab.dll
+D:\Github\Masha-Lab\obj\Debug\net6.0\ref\Masha-Lab.dll
+D:\Github\Masha-Lab\obj\Debug\net6.0\Masha-Lab.pdb
+D:\Github\Masha-Lab\obj\Debug\net6.0\Masha-Lab.genruntimeconfig.cache
